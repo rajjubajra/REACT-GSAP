@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Image One",
+    "url": "http://localhost:3000/media/image-1.jpg",
+    "alt": "Image One"
+  },
+  {
+    "id": 2,
+    "name": "Image Two",
+    "url": "http://localhost:3000/media/image-2.jpg",
+    "alt": "Image Two"
+  },
+  {
+    "id": 3,
+    "name": "Image Three",
+    "url": "http://localhost:3000/media/image-3.jpg",
+    "alt": "Image Three"
+  },
+  {
+    "id": 4,
+    "name": "Image Four",
+    "url": "http://localhost:3000/media/image-4.jpg",
+    "alt": "Image Four"
+  }
+
+]
